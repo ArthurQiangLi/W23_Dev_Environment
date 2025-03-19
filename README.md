@@ -7,6 +7,7 @@ Materials for building development environment
 
 
 ## File management
-- [`7z for windows/linux`](2-tools/7z)  | ([7z official link](https://www.7-zip.org/download.html))
+1. [`7z for windows/linux`](2-tools/7z)  | ([7z official link](https://www.7-zip.org/download.html))
 
-- [`everything`](./2-tools/everything)
+1. [`everything`](./2-tools/everything)
+2. [`notepad++`](./2-tools/notepad++)
