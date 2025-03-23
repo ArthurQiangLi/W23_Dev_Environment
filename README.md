@@ -11,6 +11,7 @@ Materials for building development environment
 
 1. [`everything`](./2-tools/everything)
 2. [`notepad++`](./2-tools/notepad++)
+3. [`picpick`](./2-tools/picpick)
 
 
 ## Drivers
