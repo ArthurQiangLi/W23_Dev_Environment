@@ -17,8 +17,12 @@ Materials for building development environment
 ## Drivers
 1. [`cp210x(win)`](./3-drivers/cp210x) | [(more info)](./3-drivers/cp210x/cp210x.md)
 
+## Libraries/Addons
+- [`opencv`](./4-library-addon/opencv/opencv.md)
 
 
+## VSCode
+- Refer to repo [`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode) for details.
 
 
 
