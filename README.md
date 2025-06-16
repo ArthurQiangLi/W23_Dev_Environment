@@ -21,14 +21,16 @@ Materials for building development environment
 - [`opencv`](./4-library-addon/opencv/opencv.md)
 
 
-## 5. VSCode
+## 5. Tools
+#### 1. Coding
 - Refer to repo [`S15_VSCode`](https://github.com/ArthurQiangLi/S15_VSCode) for details.
 
-## 6. Mechanical 
-1. [`FreeCAD`](./6-Mechanical/FreeCAD/)
+#### 2. Mechanical 
+- [`FreeCAD`](./6-Mechanical/FreeCAD/)
 
 
-
+#### 3. Plotting
+- [`Plotjuggler`](2-tools/plotjuggler/plotjuggler.md)
 
 
 
