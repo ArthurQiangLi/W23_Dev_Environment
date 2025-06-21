@@ -32,7 +32,8 @@ Materials for building development environment
 #### 3. Plotting
 - [`Plotjuggler`](2-tools/plotjuggler/plotjuggler.md)
 
-
+#### 4. Media
+- [`GIMP image editor`](2-tools/gimp/gimp.md)
 
 
 <!---
