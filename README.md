@@ -3,7 +3,7 @@ Materials for building development environment
 
 
 1. [`VM player`](2-tools/VMware-player-full-17.0.2-21581411(2023-475MB))
-1. [`7z (win/linux)`](2-tools/7z)   [(7z official link)](https://www.7-zip.org/download.html) ||  [`everything`](./2-tools/everything).  [(Official Link)](https://www.voidtools.com/downloads/)
+1. [`7z (win/linux)`](2-tools/7z)   [(7z official link)](https://www.7-zip.org/download.html) ||  [`everything`](./2-tools/everything).  [(Official Link)](https://www.voidtools.com/downloads/)  || [`Explorer++`](./2-tools/explorer++/) [(What's this?)](./2-tools/explorer++/explorer.md)
 1. [`notepad++`](./2-tools/notepad++)
 
 1. [`Pdf reader: forxit`](./2-tools/forxit-reader/)
