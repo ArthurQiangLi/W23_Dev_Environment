@@ -9,8 +9,9 @@ Materials for building development environment
 1. [`Pdf reader: forxit`](./2-tools/forxit-reader/)
 2. [`FreeCAD`](./2-tools/FreeCAD/)
 3. [`Log Viewer: Plotjuggler`](2-tools/plotjuggler/plotjuggler.md)
-4. [`picpick`](./2-tools/picpick)    [(How to record screen?)](/2-tools/picpick/picture_tool.md)  ||   [`Image editor: GIMP`](2-tools/gimp/gimp.md)
-5. [`Driver: cp210x(win)`](./3-drivers/cp210x)  [(How to Install?)](./2-tools/cp210x/cp210x.md)
+4. [`picpick`](./2-tools/picpick)    [(How to record screen?)](/2-tools/picpick/picture_tool.md)  | |   [`Image editor: GIMP`](2-tools/gimp/gimp.md)
+5. USB Serial Driver: [`cp210x(win)`](./2-tools/cp210x)  [(How to Install?)](./2-tools/cp210x/cp210x.md) | | [`FTDI VCP`](./2-tools/usb-serial-driver-FTDI/) [How to Install?](./2-tools/usb-serial-driver-FTDI/ftdi.md)
+6. [Serial Port Monitor]()
 
 
 
