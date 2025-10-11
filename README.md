@@ -16,7 +16,8 @@ Materials for building development environment
 | |[`YAT`](./2-tools/YAT-serial-communication/) ([Howto?](./2-tools/YAT-serial-communication/yat.md))
 | |[`Terminal`](./2-tools/Terminal/)([Howto?](./2-tools/Terminal/terminal.md))
 | |[`SerialPlot`](./2-tools/SerialPlot/)([Howto?](./2-tools/SerialPlot/serialplot.md))
-7. Logic Analyzer [`Seleae16`](./2-tools/Saleae16/)([Howto?](./2-tools/Saleae16/saleae.md))
+7. Logic Analyzer [`Seleae16`](./2-tools/Saleae16/)([Howto?](./2-tools/Saleae16/saleae.md)) 
+1. [`ZLG Can tool`](./2-tools/zlg-can/)([Howto?](./2-tools/zlg-can/zlg.md))
 
 <br>
 
